@@ -2,12 +2,16 @@
 </script>
 
 <template>
-    <div class="container">
-        <h1>HomeComponent Text</h1>
-    </div>
+    <h1>HOME</h1>
 </template>
 <style>
-.container {
-    display: none;
+template {
+    background-color: #282b34;
+}
+
+h1 {
+    margin-top: 1rem;
+    font-family: "Roboto", sans-serif;
+    color: white;
 }
 </style>
